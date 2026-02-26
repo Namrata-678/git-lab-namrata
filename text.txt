@@ -1,1 +1,4 @@
-HELLO gitadding 2nd line in my file
+HELLO git 
+adding 2nd line in my file
+
+adding my 3rd line in my file
