@@ -1,4 +1,4 @@
 HELLO git 
 adding 2nd line in my file
-
 adding my 3rd line in my file
+adding my 4th line in my file
